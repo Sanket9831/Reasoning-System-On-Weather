@@ -4,7 +4,7 @@
 
 2.) .pdf file is the Project Report
 
-# OUTPUT:
+# SAMPLE OUTPUT:
  
 # 					REASONING SYSTEM ON WEATHER FORECAST
 
